@@ -1,0 +1,55 @@
+{
+  "usuario": [
+    {
+      "nome": "guilherme",
+      "email": "gui@gui.com",
+      "idade": 21
+    },
+    {
+      "nome": "ricardo",
+      "email": "ricardo@gmail.com",
+      "idade": 50
+    },
+    {
+      "nome": "Gabriele",
+      "email": "Gabriele@hotmail.com",
+      "idade": 28
+    },
+    {
+      "nome": "Eliane",
+      "email": "Eliane@uol.com",
+      "idade": 17
+    }
+  ],
+  "livro": [
+    {
+      "livro": "A Arte da Guerra",
+      "autor": "Sun Tzu",
+      "AnoDaObra": "2003",
+      "Editora": "Companhia das letras",
+      "Valor": "R$ 45,95"
+    },
+    {
+      "livro": "O menino do Pijama Listrado",
+      "autor": "John Boyne",
+      "AnoDaObra": "2006",
+      "Editora": "Companhia das letras",
+      "Valor": "R$ 64,90"
+    },
+    {
+      "livro": "A meta",
+      "autor": "Eliyahu M./ Goldratt/ jeff cox",
+      "AnoDaObra": "2014",
+      "Editora": "Nobel",
+      "Valor": "R$95,00"
+    },
+
+    {
+      "livro": "O Auto da Compadecida",
+      "autor": "Ariano Suassuna",
+      "AnoDaObra": "2018",
+      "Editora": "Nova Fronteira",
+      "Valor": "R$ 47,42"
+    }
+  ]
+}
